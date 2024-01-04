@@ -3,9 +3,14 @@ providing valuable insights into audience sentiments towards various films. By u
 and Convolutional Neural Networks (CNN), we endeavor to automate sentiment analysis and streamline the process of understanding public opinion about movies.
 
 Project Objectives:
+
 1.Implement sentiment analysis to categorize IMDb movie reviews as positive, negative, or neutral.
+
 2.Train a Sparse Neural Network (SNN) with Long Short-Term Memory (LSTM) for sentiment analysis.
+
 3.Develop a Convolutional Neural Network (CNN) for sentiment analysis to compare performance with the LSTM-based model.
+
 4.Evaluate the models' performance using appropriate metrics to determine their effectiveness in sentiment classification.
+
 5.Provide an intuitive comparison between the SNN with LSTM and CNN models in terms of accuracy, efficiency, and generalization.
 
